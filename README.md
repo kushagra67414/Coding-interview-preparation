@@ -194,3 +194,9 @@ int main()
 
   // } Driver Code Ends
 ```
+
+
+## Type Inference in C++ (auto and decltype)
+
+https://www.geeksforgeeks.org/type-inference-in-c-auto-and-decltype/
+
